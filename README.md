@@ -53,7 +53,11 @@ redis-server
 python manage.py runserver
 
 ```
-http://localhost:8000/api/faq/
+http://localhost:8000/api/faq/?lang=hi
+Hindi->hi
+Bengali->bn
+English->en(default)
+
 
 ## 📌 Running Tests
 
