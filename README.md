@@ -2,7 +2,8 @@
 
 A Django-based REST API for managing **Frequently Asked Questions (FAQs)** with **multilingual support, caching, and WYSIWYG editor integration**.
 
-## 📌 Features   
+## 📌 Features
+✅ Store and manage FAQs   
 ✅ WYSIWYG editor (`django-ckeditor`) for formatted answers  
 ✅ REST API for retrieving FAQs  
 ✅ Caching mechanism (Redis)  
